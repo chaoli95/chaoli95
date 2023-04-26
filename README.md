@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chao Li. I'm currently reading Real-Time Rendering so might upload some fun projects here! 
+My name is Chao Li. I'm reading Real-Time Rendering recently so might upload some fun projects here! 
 
 <!--
 **chaoli95/chaoli95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
