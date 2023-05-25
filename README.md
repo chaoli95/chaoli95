@@ -1,8 +1,4 @@
-### Hi there 👋
-
-My name is Chao Li. I'm reading Real-Time Rendering recently so might upload some fun projects here! 
-
-[Github Stats](https://github-readme-stats.vercel.app/api?username=chaoli95&count_private=true&show_icons=true&include_all_commits=true)
+### Hi there
 
 <!--
 **chaoli95/chaoli95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
